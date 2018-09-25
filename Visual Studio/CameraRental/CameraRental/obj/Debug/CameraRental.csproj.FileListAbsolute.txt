@@ -1,0 +1,11 @@
+C:\Visual Studio\CameraRental\CameraRental\bin\Debug\CameraRental.exe.config
+C:\Visual Studio\CameraRental\CameraRental\bin\Debug\CameraRental.exe
+C:\Visual Studio\CameraRental\CameraRental\bin\Debug\CameraRental.pdb
+C:\Visual Studio\CameraRental\CameraRental\obj\Debug\CameraRental.csprojResolveAssemblyReference.cache
+C:\Visual Studio\CameraRental\CameraRental\obj\Debug\CameraRental.Properties.Resources.resources
+C:\Visual Studio\CameraRental\CameraRental\obj\Debug\CameraRental.csproj.GenerateResource.cache
+C:\Visual Studio\CameraRental\CameraRental\obj\Debug\CameraRental.csproj.CoreCompileInputs.cache
+C:\Visual Studio\CameraRental\CameraRental\obj\Debug\CameraRental.exe
+C:\Visual Studio\CameraRental\CameraRental\obj\Debug\CameraRental.pdb
+C:\Visual Studio\CameraRental\CameraRental\obj\Debug\CameraRental.FrmMainMenu.resources
+C:\Visual Studio\CameraRental\CameraRental\obj\Debug\CameraRental.FrmCreateCustomer.resources
